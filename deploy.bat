@@ -1,0 +1,1 @@
+xcopy ".\build\*" "..\astonebridge.github.io\" /K /D /H /Y
